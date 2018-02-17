@@ -1,0 +1,4 @@
+
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(–ÖŽñûÿÿÿÿ
+Osquid:S1118":Add a private constructor to hide the implicit public one.(˜‡Ïç
+Ysquid:S2259"DA "NullPointerException" could be thrown; "cursor" is nullable here.(®¶ëü
